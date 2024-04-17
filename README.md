@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Imran Sarker
+- 👋 Hi, I’m Imran Sarker
 - 👀 I’m interested in Machine Learning,Artificial Intelligence,Deep Learning and Intelligent based Recommendations System
 - 🌱 I’m currently learning Reinforcement Learning and Intelligent Recommendation System
 - 💞️ I’m looking to collaborate on Computer Vision,Image Processing,Object Detection and Object Recognition 
